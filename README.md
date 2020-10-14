@@ -28,12 +28,18 @@ I think that <i>those who are crazy enough to think they can change the world us
 <br>
 <div align="center">
 <img src="icons/react.svg" width="32" />&nbsp;
+<img src="icons/redux.svg" width="32" />&nbsp;
+<img src="icons/next-dot-js.svg" width="32" />&nbsp;
 <img src="icons/angular.svg" width="32" />&nbsp;
+<img src="icons/electron.svg" width="32" />&nbsp;
 <img src="icons/nestjs.svg" width="32" />&nbsp;
 <img src="icons/spring.svg" width="32" />&nbsp;
+<img src="icons/socket-dot-io.svg" width="32" />&nbsp;
 <img src="icons/mysql.svg" width="32" />&nbsp;
 <img src="icons/mongodb.svg" width="32" />&nbsp;
-<img src="icons/microsoftsqlserver.svg" width="32" />
+<img src="icons/microsoftsqlserver.svg" width="32" />&nbsp;
+<img src="icons/redis.svg" width="32" />&nbsp;
+<img src="icons/docker.svg" width="32" />
 </div>
 <br>
 
