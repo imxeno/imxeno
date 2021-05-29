@@ -23,7 +23,7 @@ I think that <i>those who are crazy enough to think they can change the world us
 <img src="icons/swift.svg" width="32" />&nbsp;
 <img src="icons/php.svg" width="32" />&nbsp;
 <img src="icons/python.svg" width="32" />&nbsp;
-<img src="icons/embarcadero.svg" width="32" />&nbsp;
+<img src="icons/delphi.svg" width="32" />&nbsp;
 <img src="icons/lua.svg" width="32" />
 </div>
 <br>
