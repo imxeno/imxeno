@@ -5,7 +5,7 @@ I think that <i>those who are crazy enough to think they can change the world us
 ### 💁‍♂️ That's basically who I am:
 
 - 🎩 Co-founder of [Prown](https://prown.io), where I am leading the technological side of the project. We're coming for you, pesky counterfeiters!
-- 🕹️ Chief Technology Officer at [PWay](https://pway.io), where we're developing a blockchain platform for video game ideas.
+- 🕹️ Former Chief Technology Officer at [PWay](https://pway.io) (a subsidiary of [PlayWay](https://playway.com)), where we were developing a blockchain platform for collecting video game ideas.
 - 🏦 Former Blockchain Technology Lead at [Alior Bank](https://aliorbank.pl), where I was responsible for the technological aspects of blockchain implementation.
 - 👨‍🏫 Lecturer at [The Faculty of Management of the University of Warsaw (FinTech post-diploma course)](https://podyplomowe.wz.uw.edu.pl/fintech/).
 - 🎮 Leader of [Xeno's Tale](https://xenostale.pl), a project that tries to extend the life of [NosTale](https://nostale.com) - a MMORPG game from 2006 that I have a huge sentiment for.
