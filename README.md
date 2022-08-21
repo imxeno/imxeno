@@ -15,6 +15,7 @@ I think that <i>those who are crazy enough to think they can change the world us
 <br>
 <div align="center">
 <img src="icons/java.svg" width="32" />&nbsp;
+<img src="icons/kotlin.svg" width="32" />&nbsp;
 <img src="icons/cplusplus.svg" width="32" />&nbsp;
 <img src="icons/csharp.svg" width="32" />&nbsp;
 <img src="icons/node-dot-js.svg" width="32" />&nbsp;
@@ -40,7 +41,9 @@ I think that <i>those who are crazy enough to think they can change the world us
 <img src="icons/mongodb.svg" width="32" />&nbsp;
 <img src="icons/microsoftsqlserver.svg" width="32" />&nbsp;
 <img src="icons/redis.svg" width="32" />&nbsp;
+<img src="icons/rabbitmq.svg" width="32" />&nbsp;
 <img src="icons/docker.svg" width="32" />
+<img src="icons/turborepo.svg" width="32" />&nbsp;
 </div>
 <br>
 
