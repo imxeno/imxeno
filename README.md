@@ -1,15 +1,12 @@
-<!--<h1 align="center">Hey, I'm Piotr. But you can also call me Xeno.</h1>-->
 <h4 align="center">I am delivering the impossible. Or at least <i>they</i> say so.<br>
 I think that <i>those who are crazy enough to think they can change the world usually do</i>.</h4>
 
 ### 💁‍♂️ That's basically who I am:
 
 - 🎩 Co-founder of [Prown](https://prown.io), where I am leading the technological side of the project. We're coming for you, pesky counterfeiters!
-- 🕹️ Former Chief Technology Officer at [PWay](https://pway.io) (a subsidiary of [PlayWay](https://playway.com)), where we were developing a blockchain platform for collecting video game ideas.
-- 🏦 Former Blockchain Technology Lead at [Alior Bank](https://aliorbank.pl), where I was responsible for the technological aspects of blockchain implementation.
-- 👨‍🏫 Lecturer at [The Faculty of Management of the University of Warsaw (FinTech post-diploma course)](https://podyplomowe.wz.uw.edu.pl/fintech/).
+- 🐉 Co-founder of [Mistwood](https://mistwood.pl), where we create a browser game inspired by Nightwood.
 - 🎮 Leader of [Xeno's Tale](https://xenostale.pl), a project that tries to extend the life of [NosTale](https://nostale.com) - a MMORPG game from 2006 that I have a huge sentiment for.
-- 👨‍🎓 Computer Science student at [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/).
+- 👨‍🎓 Graduate of Computer Science at [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/).
 - 🧙‍♂️ Hobbyist developer, that sometimes conjures up something useful or simply cool. You know, sometimes it happens.
 
 <br>
