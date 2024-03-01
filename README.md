@@ -58,6 +58,5 @@ I think that <i>those who are crazy enough to think they can change the world us
 - 🎽 I usually attend **hackathons just for the sport**. Rewards are only a nice addition. Actually... I **forgot to claim** some of the things I won.
 - 🍍 I’m not an **Apple** fan but I use Apple products. The same goes for the brand with the **three-headed snake logo**.
 - 🧭 I like to **travel**. 🇮🇸 Iceland has been my favourite place for a while.
-- 🌙 People tend to say I'm **depressed**. If this is true, I think **this is what keeps me going.**
 - 🎮 I like **JRPGs**, especially the newer **Monolith Soft** games.
 - ♋ But lately I prefer to play **League of Legends** ~~to chill out~~.
