@@ -4,6 +4,7 @@ I think that <i>those who are crazy enough to think they can change the world us
 ### 💁‍♂️ That's basically who I am:
 
 - 🎩 Co-founder of [Prown](https://prown.io), where I am leading the technological side of the project. We're coming for you, pesky counterfeiters!
+- ❤️ Developer at [L2BEAT](https://l2beat.com), an open-source, public-good analytics and research platform dedicated to L2 scaling solutions.
 - 🐉 Co-founder of [Mistwood](https://mistwood.pl), where we create a browser game inspired by Nightwood.
 - 🎮 Leader of [Xeno's Tale](https://xenostale.pl), a project that tries to extend the life of [NosTale](https://nostale.com) - a MMORPG game from 2006 that I have a huge sentiment for.
 - 👨‍🎓 Graduate of Computer Science at [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/).
