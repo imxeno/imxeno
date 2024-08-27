@@ -55,7 +55,6 @@ I think that <i>those who are crazy enough to think they can change the world us
 
 ### 🧘‍♂️ Offtopic:
 
-- 😳 You won't notice it, but I'm a very **shy and introvert** person.
 - 🎽 I usually attend **hackathons just for the sport**. Rewards are only a nice addition. Actually... I **forgot to claim** some of the things I won.
 - 🍍 I’m not an **Apple** fan but I use Apple products. The same goes for the brand with the **three-headed snake logo**.
 - 🧭 I like to **travel**. 🇮🇸 Iceland has been my favourite place for a while.
